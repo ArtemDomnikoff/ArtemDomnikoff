@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Artem - Python Developer
 ___
 
-I'm a beginner Python developer and always eager to learn and contribute to exciting projects. I strive to create quality applications and am ready to learn through hands-on experience. If you're looking to add a motivated and dedicated team member to your project or if you have an opportunity for a Python developer, I'd love to collaborate with you! 🚀
+I'm a beginner Python developer and always eager to learn and contribute to exciting projects. I strive to create quality applications and ready to learn through hands-on experience. If you're looking to add a motivated and dedicated team member to your project or if you have an opportunity for a Python developer, I'd love to collaborate with you! 🚀
 ___
 
 ### Languages and Tools:
